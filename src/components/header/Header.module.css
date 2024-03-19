@@ -5,8 +5,10 @@
     align-items: center;
     padding: 1.5rem;
     border-bottom: 3px green  solid;
-    position: fixed;
     width: 100%;
+    top: 0;
+    position: fixed;
+    margin-bottom: 500px
 }
 
 .header h1 {
