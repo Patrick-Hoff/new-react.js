@@ -1,0 +1,9 @@
+.banner {
+    width: 100%;
+    height: 347px;
+    /* background-image: url(https://img.freepik.com/vetores-premium/cartaz-de-estreia-de-cinema-filme-com-tela-branca-fundo_165143-451.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 600px;
+}

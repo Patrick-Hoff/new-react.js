@@ -1,13 +1,12 @@
 .footer {
-    position: fixed;
-    bottom: 0;
+    position: absolute;
     display: flex;
     align-items: center;
     justify-content: center;
     color: white;
     background: #000;
-    border-top: 2px solid green;
-    padding: 2rem;
+    border-top: 2px solid #f44336;
+    padding-block: 2rem;
     width: 100%;
 }
 
