@@ -1,10 +1,10 @@
 import styles from "./Banner.module.css"
 
-function Banner() {
+function Banner({ image }) {
     return (
         <div
         className={styles.banner}
-        style={ { backgroundImage: "url(https://img.freepik.com/vetores-premium/cartaz-de-estreia-de-cinema-filme-com-tela-branca-fundo_165143-451.jpg)" } }
+        style={ { backgroundImage: `url(/img/${image}.png)` } }
         >
 
         </div>
